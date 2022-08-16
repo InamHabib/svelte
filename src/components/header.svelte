@@ -1,6 +1,6 @@
 <script>
 import {Arrival} from "carbon-icons-svelte/lib";
-import {UserAvatarFilledAlt} from "carbon-icons-svelte/lib/";
+import {UserAvatarFilledAlt} from "carbon-icons-svelte/lib";
 </script>
 <div class="header-container">
 <div class="left-section">

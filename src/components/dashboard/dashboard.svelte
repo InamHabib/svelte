@@ -3,7 +3,6 @@
     import { Notification } from "carbon-icons-svelte/lib";
     import "@carbon/styles/css/styles.css";
     import "@carbon/charts/styles.css";
-    import ProgressBar from "@okrad/svelte-progressbar";
     import { StackedAreaChart, BarChartSimple } from "@carbon/charts-svelte";
 </script>
 
