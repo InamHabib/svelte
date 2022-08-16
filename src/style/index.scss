@@ -18,11 +18,12 @@
     }
     .body{
         display: flex;
+        padding: 1rem;
         flex-direction: row;
         height: calc(100vh - 60px);
         height: fit-content;
         .left-section{
-            width:360px;
+            width:240px;
             background: #282f41;
             .menu-container{
                 padding: 2rem 1rem;

@@ -4,4 +4,7 @@ import "carbon-components-svelte/css/g100.css";
 import "./style/index.scss";
 
 </script>
-<PrimaryLayout />
+<main>
+    <PrimaryLayout />
+</main>
+
