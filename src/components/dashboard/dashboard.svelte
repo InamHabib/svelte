@@ -11,8 +11,8 @@
         <div class="chart-header">
             <h2>Annual Views</h2>
         </div>
-
-        <StackedAreaChart
+        <div class="chart-body"> 
+            <StackedAreaChart
             theme="g100"
             defaultFillColor="#9fd3f6"
             data={[
@@ -63,6 +63,8 @@
                 },
             }}
         />
+
+        </div>
 
         <div class="chart-footer">
             <div class="bar-chart">
